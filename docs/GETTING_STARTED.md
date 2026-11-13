@@ -7,8 +7,8 @@ Finish the first five starters. Choose Java 21+ and a supported stable Spring Bo
 ## 2. Clone and read
 
 ```bash
-git clone https://github.com/Abd-Elrahman3/08-ledgeratlas-spring-boot.git
-cd 08-ledgeratlas-spring-boot
+git clone https://github.com/Abd-Elrahman3/ledgeratlas-spring-boot.git
+cd ledgeratlas-spring-boot
 git switch -c feature/m1-domain
 ```
 
